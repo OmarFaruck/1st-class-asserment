@@ -1,0 +1,47 @@
+body{
+    color:orange;
+    font-size: 8px;
+}
+h1{
+    color: yellow;
+    color: green;
+}
+p{
+    font-size: 16px;
+    color: green;
+}
+span{
+    color: red;
+}
+.p1{
+    font-size: 25px;
+    color: violet;
+}
+.subtext{
+    color: orange;
+}
+.prev-btn{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    background-color: brown;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.prev-btn:hover{
+    background-color: aqua;
+}
+.next-btn{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    background-color: chocolate;
+    border-radius: 15px;
+    margin-left: 980px;
+}
+.next-btn:hover{
+    background-color: darksalmon;
+}
+.btn{
+    display: inline-block;
+}
